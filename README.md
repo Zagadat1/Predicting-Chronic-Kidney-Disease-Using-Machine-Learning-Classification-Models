@@ -1,0 +1,2 @@
+# Predicting-Chronic-Kidney-Disease-Using-Machine-Learning-Classification-Models
+This project focuses on the development and evaluation of classification models that predict the possibility of developing chronic kidney disease using a range of demographics, habits, and health features. The machine learning models explored in this project are: Logistic Regression, Random Forest Classifier and Support Vector Machine (SVM)
